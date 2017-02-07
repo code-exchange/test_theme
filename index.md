@@ -63,13 +63,13 @@ var fun = function lang(l) {
 
 * * *
 
-### Here is an unordered list:
+### Unordered list
 
 *   Item foo
 *   Item bar
 *   Item baz
 
-### And an ordered list:
+### Ordered list
 
 1.  Item one
 1.  Item two
